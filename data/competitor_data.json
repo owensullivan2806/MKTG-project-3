@@ -1,0 +1,574 @@
+{
+  "schema_version": "1.0",
+  "research_date": "2026-10-27",
+  "venture": {
+    "name": null,
+    "display_name": "Proposed vintage inspired graphic tee brand",
+    "business_concept": "New graphic T-shirts with a faded vintage look at an affordable price.",
+    "primary_product": "Vintage inspired graphic T-shirts",
+    "target_customers": "Creative, fashion-conscious young men, including college students with limited access to suitable thrift stores.",
+    "customer_need": "Find attractive, good-quality vintage-looking tees without damage, high resale prices, or hours of searching.",
+    "value_proposition": "Affordable vintage graphics, a recognizable brand identity, and a distinctive website.",
+    "geographic_market": null,
+    "research_market_assumption": "United States online retail, USD. The venture document does not specify geography.",
+    "distribution_channels": [
+      "Own website is implied by the venture document; other channels are unspecified."
+    ],
+    "features": [
+      "Faded vintage graphics",
+      "Good quality and intact condition are desired benefits",
+      "Strong brand identity",
+      "Distinctive website"
+    ],
+    "unspecified_details": [
+      "Brand name",
+      "Geographic launch market",
+      "Fabric weight and composition",
+      "Fit and size range",
+      "Production method",
+      "Costs and target margin",
+      "Shipping policy",
+      "Graphic licensing approach"
+    ],
+    "source_file": "Owen Sullivan.docx"
+  },
+  "competitors": [
+    {
+      "competitor_id": "C01",
+      "name": "Abercrombie & Fitch",
+      "classification": "Direct",
+      "website_url": "https://www.abercrombie.com/",
+      "geographic_market": "U.S. storefront used; broader international retailer",
+      "target_customers": "Style-conscious men seeking casual fashion and nostalgic graphics (analyst interpretation).",
+      "main_products": "Casual apparel, vintage inspired graphic tees and heavyweight graphic collections.",
+      "positioning": "Upper end of this sample at full price; clearance creates lower entry prices (analyst interpretation).",
+      "differentiating_features": [
+        "180g softAF fabric on sampled tees",
+        "Oversized silhouette",
+        "Destination and entertainment graphics"
+      ],
+      "relevance": "Offers new vintage inspired tees online, directly addressing the desired look without a thrift search.",
+      "representative_offer_id": "P01",
+      "source_urls": [
+        "https://www.abercrombie.com/shop/us/p/the-empire-strikes-back-vintage-inspired-tee-63492609"
+      ]
+    },
+    {
+      "competitor_id": "C02",
+      "name": "Hollister",
+      "classification": "Direct",
+      "website_url": "https://www.hollisterco.com/",
+      "geographic_market": "U.S. storefront used; broader international retailer",
+      "target_customers": "Younger casual-fashion shoppers and car-graphic fans (analyst interpretation).",
+      "main_products": "Casual apparel, boxy graphic tees and licensed car and entertainment designs.",
+      "positioning": "Value to mid-market in this sample, with a promotional entry price (analyst interpretation).",
+      "differentiating_features": [
+        "Boxy fit",
+        "Licensed automotive graphics",
+        "100% cotton in both sampled offers"
+      ],
+      "relevance": "Offers accessible new graphic tees in fits and themes relevant to young men.",
+      "representative_offer_id": "P03",
+      "source_urls": [
+        "https://www.hollisterco.com/shop/us/p/boxy-toyota-supra-graphic-tee-63766521?seq=10",
+        "https://www.hollisterco.com/shop/us/p/boxy-mclaren-racing-graphic-tee-63503981?seq=25"
+      ]
+    },
+    {
+      "competitor_id": "C03",
+      "name": "Urban Outfitters",
+      "classification": "Direct",
+      "website_url": "https://www.urbanoutfitters.com/",
+      "geographic_market": "U.S. storefront used; broader international retailer",
+      "target_customers": "Fashion-oriented men seeking music, movie and automotive graphic tees (analyst interpretation).",
+      "main_products": "Multi-brand fashion and graphic tees with music, film and racing themes.",
+      "positioning": "Mid to upper end of this sample, emphasizing themed graphics and vintage styling (analyst interpretation).",
+      "differentiating_features": [
+        "Washed cotton option",
+        "Music and film graphics",
+        "Regular-fit alternatives to boxy tees"
+      ],
+      "relevance": "Explicitly markets modern reprints and retro styling as an alternative to hunting for vintage.",
+      "representative_offer_id": "P05",
+      "source_urls": [
+        "https://www.urbanoutfitters.com/graphic-tees-for-men?html_banner=1"
+      ]
+    }
+  ],
+  "pricing_offers": [
+    {
+      "offer_id": "P01",
+      "competitor_id": "C01",
+      "competitor_name": "Abercrombie & Fitch",
+      "product_name": "The Empire Strikes Back Vintage-Inspired Tee",
+      "description": "New oversized short-sleeve graphic tee.",
+      "pricing_model": "One-time purchase",
+      "current_listed_price": 45,
+      "regular_price": 45,
+      "promotional_price": null,
+      "currency": "USD",
+      "pricing_unit": "per tee",
+      "price_status": "No item markdown shown",
+      "selected_variant": "White",
+      "features": [
+        "100% cotton",
+        "softAF 180g fabric",
+        "Chest and back graphics",
+        "Crew neck"
+      ],
+      "variations": [
+        "XS–XXL displayed",
+        "White and two black graphic variants displayed"
+      ],
+      "customization_options": null,
+      "subscription": null,
+      "free_trial": null,
+      "bundle_discount": null,
+      "additional_charges": "U.S. banner advertises free standard shipping on orders over $99. Below-threshold shipping charge not established; sales tax may apply. Excluded from comparisons.",
+      "is_representative": true,
+      "source_url": "https://www.abercrombie.com/shop/us/p/the-empire-strikes-back-vintage-inspired-tee-63492609",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_method": "Official product page plus live U.S. browser page",
+      "research_notes": "Representative for its explicit vintage styling and standard listed price. Cached web text included an app promotion dated October 16–19; expired and not applied. Size-level inventory was not tested."
+    },
+    {
+      "offer_id": "P02",
+      "competitor_id": "C01",
+      "competitor_name": "Abercrombie & Fitch",
+      "product_name": "East Hampton Vintage-Inspired Graphic Tee",
+      "description": "New oversized destination graphic tee.",
+      "pricing_model": "One-time purchase",
+      "current_listed_price": 22.99,
+      "regular_price": 35,
+      "promotional_price": 22.99,
+      "currency": "USD",
+      "pricing_unit": "per tee",
+      "price_status": "Clearance",
+      "selected_variant": "White",
+      "features": [
+        "100% cotton",
+        "softAF 180g fabric",
+        "Chest and back graphics",
+        "Crew neck"
+      ],
+      "variations": [
+        "XS–XXL displayed"
+      ],
+      "customization_options": null,
+      "subscription": null,
+      "free_trial": null,
+      "bundle_discount": null,
+      "additional_charges": "U.S. banner advertises free standard shipping on orders over $99. Below-threshold shipping charge not established; sales tax may apply. Excluded from comparisons.",
+      "is_representative": false,
+      "source_url": "https://www.abercrombie.com/shop/us/p/east-hampton-vintage-inspired-graphic-tee-63185319?categoryId=610695061&faceout=model&gridProductPosition=25&pagefm=navigation-grid&prodvm=navigation-grid&seq=01",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_method": "Official product page web extraction",
+      "research_notes": "Clearance and Almost Gone labels observed. $35 is the displayed reference price, not proof of historical sales. Clearance is excluded from representative statistics but included in the all-offer range."
+    },
+    {
+      "offer_id": "P03",
+      "competitor_id": "C02",
+      "competitor_name": "Hollister",
+      "product_name": "Boxy Toyota Supra Graphic Tee",
+      "description": "New boxy short-sleeve automotive graphic tee.",
+      "pricing_model": "One-time purchase",
+      "current_listed_price": 20.97,
+      "regular_price": 34.95,
+      "promotional_price": 20.97,
+      "currency": "USD",
+      "pricing_unit": "per tee",
+      "price_status": "Promotional markdown",
+      "selected_variant": "Cream",
+      "features": [
+        "100% cotton",
+        "Officially licensed Toyota graphics",
+        "Front and back print",
+        "Crew neck"
+      ],
+      "variations": [
+        "XS–XXL displayed",
+        "Cream and charcoal displayed"
+      ],
+      "customization_options": null,
+      "subscription": null,
+      "free_trial": null,
+      "bundle_discount": null,
+      "additional_charges": "U.S. banner advertises free standard shipping on orders over $59. Below-threshold shipping charge not established; sales tax may apply. Excluded from comparisons.",
+      "is_representative": true,
+      "source_url": "https://www.hollisterco.com/shop/us/p/boxy-toyota-supra-graphic-tee-63766521?seq=10",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_method": "Live U.S. product page in browser",
+      "research_notes": "Was $34.95, now $20.97 observed. Representative for young-mens graphic styling; the description does not confirm a faded finish. Category web extraction redirected to EUR; only browser-confirmed USD used. Reference price is not historical transaction evidence."
+    },
+    {
+      "offer_id": "P04",
+      "competitor_id": "C02",
+      "competitor_name": "Hollister",
+      "product_name": "Boxy McLaren Racing Graphic Tee",
+      "description": "New boxy short-sleeve automotive graphic tee.",
+      "pricing_model": "One-time purchase",
+      "current_listed_price": 34.95,
+      "regular_price": 34.95,
+      "promotional_price": null,
+      "currency": "USD",
+      "pricing_unit": "per tee",
+      "price_status": "No item markdown shown",
+      "selected_variant": "Brown",
+      "features": [
+        "100% cotton",
+        "Officially licensed McLaren graphics",
+        "Front and back print",
+        "Crew neck"
+      ],
+      "variations": [
+        "XS–XXL displayed",
+        "Multiple graphic/color swatches displayed"
+      ],
+      "customization_options": null,
+      "subscription": null,
+      "free_trial": null,
+      "bundle_discount": null,
+      "additional_charges": "U.S. banner advertises free standard shipping on orders over $59. Below-threshold shipping charge not established; sales tax may apply. Excluded from comparisons.",
+      "is_representative": false,
+      "source_url": "https://www.hollisterco.com/shop/us/p/boxy-mclaren-racing-graphic-tee-63503981?seq=25",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_method": "Live U.S. product page in browser",
+      "research_notes": "Brown selected at $34.95. No customization or per-item bundle offer established. The description does not confirm a faded finish. Full inventory by size was not checked."
+    },
+    {
+      "offer_id": "P05",
+      "competitor_id": "C03",
+      "competitor_name": "Urban Outfitters",
+      "product_name": "Toyota Motorsports Graphic Tee",
+      "description": "New washed-cotton tee with vintage-look automotive graphics.",
+      "pricing_model": "One-time purchase",
+      "current_listed_price": 39,
+      "regular_price": 39,
+      "promotional_price": null,
+      "currency": "USD",
+      "pricing_unit": "per tee",
+      "price_status": "No product-page markdown shown",
+      "selected_variant": "White",
+      "features": [
+        "100% cotton",
+        "Washed cotton jersey",
+        "Front and back graphics",
+        "Regular fit",
+        "Short sleeves"
+      ],
+      "variations": [
+        "S–XXL displayed",
+        "White and black displayed"
+      ],
+      "customization_options": null,
+      "subscription": null,
+      "free_trial": null,
+      "bundle_discount": null,
+      "additional_charges": "U.S. standard shipping $7.50 for orders up to $59.99; free at $60 or more on web. Product page also states free at $50 via app. Most mailed returns incur $5. Sales tax may apply. Excluded from price comparisons.",
+      "is_representative": true,
+      "source_url": "https://www.urbanoutfitters.com/shop/toyota-motorsports-graphic-tee?color=010&type=REGULAR",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_method": "Official product page plus live U.S. browser page",
+      "research_notes": "Representative because washed fabric and vintage-look graphics closely match the concept. Category page showed $27.30 limited-time pricing against $39, but product page showed $39. Product-page price used; $27.30 is an unresolved category-only observation, not a verified payable price."
+    },
+    {
+      "offer_id": "P06",
+      "competitor_id": "C03",
+      "competitor_name": "Urban Outfitters",
+      "product_name": "Metallica Vintage Tour Graphic Tee",
+      "description": "New short-sleeve music graphic tee.",
+      "pricing_model": "One-time purchase",
+      "current_listed_price": 39,
+      "regular_price": 39,
+      "promotional_price": null,
+      "currency": "USD",
+      "pricing_unit": "per tee",
+      "price_status": "No item markdown shown",
+      "selected_variant": "White",
+      "features": [
+        "100% cotton",
+        "Lightweight jersey",
+        "Front and back graphics",
+        "Regular fit",
+        "Ribbed crew neck"
+      ],
+      "variations": [
+        "S–XXL displayed",
+        "White and washed black displayed"
+      ],
+      "customization_options": null,
+      "subscription": null,
+      "free_trial": null,
+      "bundle_discount": null,
+      "additional_charges": "U.S. standard shipping $7.50 for orders up to $59.99; free at $60 or more on web. Product page also states free at $50 via app. Most mailed returns incur $5. Sales tax may apply. Excluded from price comparisons.",
+      "is_representative": false,
+      "source_url": "https://www.urbanoutfitters.com/shop/metallica-vintage-tour-graphic-tee?color=010&type=REGULAR",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_method": "Official product page web extraction",
+      "research_notes": "White selected. Washed black is displayed as another color; this record does not claim its price was separately checked. No markdown shown on selected product page."
+    },
+    {
+      "offer_id": "P07",
+      "competitor_id": "C03",
+      "competitor_name": "Urban Outfitters",
+      "product_name": "American Psycho Graphic Tee",
+      "description": "New movie-poster graphic short-sleeve tee.",
+      "pricing_model": "One-time purchase",
+      "current_listed_price": 35,
+      "regular_price": 35,
+      "promotional_price": null,
+      "currency": "USD",
+      "pricing_unit": "per tee",
+      "price_status": "No item markdown shown",
+      "selected_variant": "Charcoal",
+      "features": [
+        "100% cotton",
+        "Midweight jersey",
+        "Front vintage movie-poster graphic",
+        "Regular fit",
+        "Ribbed crew neck"
+      ],
+      "variations": [
+        "S–XXL displayed"
+      ],
+      "customization_options": null,
+      "subscription": null,
+      "free_trial": null,
+      "bundle_discount": null,
+      "additional_charges": "U.S. standard shipping $7.50 for orders up to $59.99; free at $60 or more on web. Product page also states free at $50 via app. Most mailed returns incur $5. Sales tax may apply. Excluded from price comparisons.",
+      "is_representative": false,
+      "source_url": "https://www.urbanoutfitters.com/shop/american-psycho-graphic-tee?color=003&type=REGULAR",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_method": "Official product page web extraction",
+      "research_notes": "Selected charcoal variant listed at $35. Fabric durability and print longevity were not independently tested."
+    }
+  ],
+  "comparison": {
+    "currency": "USD",
+    "unit": "per new short-sleeve graphic tee before tax and shipping",
+    "representative": {
+      "included_offer_ids": [
+        "P01",
+        "P03",
+        "P05"
+      ],
+      "basis": "One selected offer per competitor at its current product-page listed price. Includes Hollister promotion; excludes clearance P02.",
+      "minimum": 20.97,
+      "maximum": 45,
+      "average": 34.99,
+      "median": 39,
+      "count": 3
+    },
+    "representative_reference_price": {
+      "included_offer_ids": [
+        "P01",
+        "P03",
+        "P05"
+      ],
+      "basis": "Displayed non-marked/reference prices of the same three representatives. A context comparison, not historical realized prices.",
+      "minimum": 34.95,
+      "maximum": 45,
+      "average": 39.65,
+      "median": 39,
+      "count": 3
+    },
+    "all_offers": {
+      "included_offer_ids": [
+        "P01",
+        "P02",
+        "P03",
+        "P04",
+        "P05",
+        "P06",
+        "P07"
+      ],
+      "basis": "All seven selected current offers, including clearance. Not equally weighted by competitor; do not use as a market average.",
+      "minimum": 20.97,
+      "maximum": 45,
+      "average": 33.84,
+      "median": 35,
+      "count": 7
+    },
+    "competitor_ranges": [
+      {
+        "competitor_id": "C01",
+        "minimum": 22.99,
+        "maximum": 45,
+        "offer_ids": [
+          "P01",
+          "P02"
+        ]
+      },
+      {
+        "competitor_id": "C02",
+        "minimum": 20.97,
+        "maximum": 34.95,
+        "offer_ids": [
+          "P03",
+          "P04"
+        ]
+      },
+      {
+        "competitor_id": "C03",
+        "minimum": 35,
+        "maximum": 39,
+        "offer_ids": [
+          "P05",
+          "P06",
+          "P07"
+        ]
+      }
+    ]
+  },
+  "preliminary_recommendation": {
+    "status": "Preliminary",
+    "minimum_price": 26,
+    "maximum_price": 32,
+    "currency": "USD",
+    "unit": "per tee before tax and shipping",
+    "rationale": "Below the $34.95–$45 standard/reference benchmarks in this sample, but above Hollister’s $20.97 promotion and Abercrombie’s $22.99 clearance. The range requires distinctive original graphics, consistent fit, a convincing faded finish and documented quality.",
+    "benchmarks": [
+      "P01",
+      "P03",
+      "P04",
+      "P05"
+    ],
+    "suggested_test_price": 29,
+    "proposed_bundle": {
+      "quantity": 2,
+      "price": 54,
+      "currency": "USD",
+      "status": "Hypothesis requiring margin validation; not a competitor offer"
+    },
+    "next_validation": [
+      "Landed product and fulfillment costs",
+      "Returns and acquisition costs",
+      "Willingness-to-pay tests at $26, $29 and $32",
+      "Wash and wear samples",
+      "Shipping policy and graphic rights"
+    ],
+    "optimal_price_claim": false
+  },
+  "research_limitations": [
+    "The venture name and launch geography are unspecified. U.S. online retail in USD is an explicit research assumption.",
+    "Three retail brands and seven selected offers are a purposive sample, not a market census. All three are direct alternatives; genuine vintage resale and local thrift shops remain indirect competition without comparable standardized offers in this dataset.",
+    "Abercrombie and Hollister appear together in Abercrombie’s Our Brands footer. Treat them as separate shopping alternatives, not three independent corporate pricing observations.",
+    "Prices were checked October 27, 2026. Web extractions can reflect cached pages; browser checks resolved Hollister localization and confirmed Abercrombie P01 and Urban Outfitters P05. This is not a checkout or inventory audit.",
+    "Urban Outfitters Toyota category price of $27.30 conflicts with its $39 product page. The product-page value is used; a live cart would be needed to resolve the payable price.",
+    "Displayed reference prices are not evidence that customers previously paid them. Clearance and selected promotional offers may have limited duration, color or size availability.",
+    "Comparisons exclude sales tax, shipping, returns, loyalty, basket discounts and installment financing. No exchange-rate normalization is used.",
+    "Product quality, shrinkage, print durability, willingness to pay, demand, unit costs, licensing costs and profit margins have not been tested. Cotton content alone does not establish quality.",
+    "Target-customer and positioning descriptions are analyst interpretations of assortment and pricing. Market opportunities are hypotheses, not proven unmet demand.",
+    "No customization, subscription, free trial or relevant per-item bundle was established for the sampled offers. Null denotes unknown or not established, never a zero price."
+  ],
+  "sources": [
+    {
+      "source_id": "S01",
+      "competitor": "Abercrombie & Fitch",
+      "product": "The Empire Strikes Back Vintage-Inspired Tee",
+      "url": "https://www.abercrombie.com/shop/us/p/the-empire-strikes-back-vintage-inspired-tee-63492609",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "method": "Official product page plus live U.S. browser page",
+      "notes": "Representative for its explicit vintage styling and standard listed price. Cached web text included an app promotion dated October 16–19; expired and not applied. Size-level inventory was not tested."
+    },
+    {
+      "source_id": "S02",
+      "competitor": "Abercrombie & Fitch",
+      "product": "East Hampton Vintage-Inspired Graphic Tee",
+      "url": "https://www.abercrombie.com/shop/us/p/east-hampton-vintage-inspired-graphic-tee-63185319?categoryId=610695061&faceout=model&gridProductPosition=25&pagefm=navigation-grid&prodvm=navigation-grid&seq=01",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "method": "Official product page web extraction",
+      "notes": "Clearance and Almost Gone labels observed. $35 is the displayed reference price, not proof of historical sales. Clearance is excluded from representative statistics but included in the all-offer range."
+    },
+    {
+      "source_id": "S03",
+      "competitor": "Hollister",
+      "product": "Boxy Toyota Supra Graphic Tee",
+      "url": "https://www.hollisterco.com/shop/us/p/boxy-toyota-supra-graphic-tee-63766521?seq=10",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "method": "Live U.S. product page in browser",
+      "notes": "Was $34.95, now $20.97 observed. Representative for young-mens graphic styling; the description does not confirm a faded finish. Category web extraction redirected to EUR; only browser-confirmed USD used. Reference price is not historical transaction evidence."
+    },
+    {
+      "source_id": "S04",
+      "competitor": "Hollister",
+      "product": "Boxy McLaren Racing Graphic Tee",
+      "url": "https://www.hollisterco.com/shop/us/p/boxy-mclaren-racing-graphic-tee-63503981?seq=25",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "method": "Live U.S. product page in browser",
+      "notes": "Brown selected at $34.95. No customization or per-item bundle offer established. The description does not confirm a faded finish. Full inventory by size was not checked."
+    },
+    {
+      "source_id": "S05",
+      "competitor": "Urban Outfitters",
+      "product": "Toyota Motorsports Graphic Tee",
+      "url": "https://www.urbanoutfitters.com/shop/toyota-motorsports-graphic-tee?color=010&type=REGULAR",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "method": "Official product page plus live U.S. browser page",
+      "notes": "Representative because washed fabric and vintage-look graphics closely match the concept. Category page showed $27.30 limited-time pricing against $39, but product page showed $39. Product-page price used; $27.30 is an unresolved category-only observation, not a verified payable price."
+    },
+    {
+      "source_id": "S06",
+      "competitor": "Urban Outfitters",
+      "product": "Metallica Vintage Tour Graphic Tee",
+      "url": "https://www.urbanoutfitters.com/shop/metallica-vintage-tour-graphic-tee?color=010&type=REGULAR",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "method": "Official product page web extraction",
+      "notes": "White selected. Washed black is displayed as another color; this record does not claim its price was separately checked. No markdown shown on selected product page."
+    },
+    {
+      "source_id": "S07",
+      "competitor": "Urban Outfitters",
+      "product": "American Psycho Graphic Tee",
+      "url": "https://www.urbanoutfitters.com/shop/american-psycho-graphic-tee?color=003&type=REGULAR",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "method": "Official product page web extraction",
+      "notes": "Selected charcoal variant listed at $35. Fabric durability and print longevity were not independently tested."
+    },
+    {
+      "source_id": "S08",
+      "competitor": "Urban Outfitters",
+      "product": "Men’s graphic tees category",
+      "url": "https://www.urbanoutfitters.com/graphic-tees-for-men?html_banner=1",
+      "source_type": "Official category page",
+      "research_date": "2026-10-27",
+      "verification_status": "Partially Verified",
+      "method": "Category and product-page comparison",
+      "notes": "Category-only Toyota $27.30 promotion conflicts with P05 product-page $39. Not included as a separately verified offer."
+    }
+  ],
+  "verification_categories": {
+    "Verified": "Official product or pricing page directly confirmed; not a guaranteed checkout price.",
+    "Partially Verified": "Relevant retailer, category or search result not fully confirmed on product page.",
+    "Estimated": "Explicit estimate rather than observed listed price.",
+    "Unavailable": "No reliable public price established."
+  }
+}
